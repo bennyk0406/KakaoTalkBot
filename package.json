@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "node-kakao": "^4.5.0",
+    "readline": "^1.3.0",
+    "typescript": "^4.6.2"
+  },
+  "scripts": {
+    "build": "tsc --build",
+    "clean": "tsc --build --clean"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21"
+  }
+}
